@@ -23,7 +23,7 @@ Footprint Analytics is building blockchain's most comprehensive data infrastruct
 The engine indexes, cleans and abstracts data from 24+ chains and counting — letting users build charts and dashboards without code using a drag-and-drop interface as well as with SQL. [Explore Web3 data](https://www.footprint.network/dashboards)
 Footprint Analytics also provides a unified data API for NFTs, GameFi, and DeFi across all major chain ecosystems to build your applications fast.
 
-<div style="text-align: center">
+<div align="center">
     <img src="https://static.footprint.network/github/footprint_website.png" alt="Footprint Market snapshot"/>
 </div>
 
@@ -43,7 +43,7 @@ Analysts can create charts on the Footprint Analytics platform with a convenient
 ## Footprint Data API
 The UI is not the only interface that could be used to access the data. Footprint provides a unified Data API for developers to build applications. Both REST API and SQL API are supported at Footprint Analytics.
 
-<div style="text-align: center">
+<div align="center">
     <img src="https://static.footprint.network/github/footprint_api_readme.png" alt="Footprint API snapshot"/>
 </div>
 
@@ -54,7 +54,7 @@ Our core competitive advantage is our Footprint Analytics Platform, powered by t
 
 We also enable any organization to tap into this trove of structured data with our blockchain data API.
 
-<div style="text-align: center">
+<div align="center">
     <img src="https://files.readme.io/2ab5caf-Screenshot_2022-10-27_at_08.35.37.png" alt="Footprint Data snapshot"/>
 </div>
 
@@ -62,7 +62,7 @@ Whereas other popular solutions need to recompute high level indicators every ti
 
 With the sophisticated architecture in the background come the caching mechanisms that greatly reduce redundant work and computing resource from O(n) to O(1). Dataset previously queried will be saved in cache and will be used during the next query execution. That way, users get their requests fast and our network don’t experience overloads so other users are not affected.
 
-<div style="text-align: center">
+<div align="center">
     <img src="https://files.readme.io/27f1034-d411037b-7258-436c-b696-5bc7c10e8e13.jpg" alt="Footprint Data snapshot"/>
 </div>
 
