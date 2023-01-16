@@ -36,7 +36,7 @@ Analysts can create charts on the Footprint Analytics platform with a convenient
 - [Rich visualization charts](https://docs.footprint.network/docs/line-chart)
 - [Alerts](https://docs.footprint.network/docs/alerts)
 
-<div style="text-align: center">
+<div align=center>
     <img src="https://static.footprint.network/github/footprint_web_readme.png" alt="Footprint snapshot"/>
 </div>
 
