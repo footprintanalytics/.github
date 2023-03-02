@@ -66,5 +66,12 @@ With the sophisticated architecture in the background come the caching mechanism
     <img src="https://files.readme.io/27f1034-d411037b-7258-436c-b696-5bc7c10e8e13.jpg" alt="Footprint Data snapshot"/>
 </div>
 
+Footprint Analytics Architecture(we named it : FootBase)
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/2989631/222377710-6b811671-7eca-470c-83b5-993dfec3ec1e.png" alt="Architecture"/>
+</div>
+
+
 ## License
 [AGPL](https://opensource.org/licenses/AGPL-3.0)
